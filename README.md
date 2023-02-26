@@ -5,6 +5,6 @@ Estou estudando **"The Odin Project"** e cheguei no desafio de criar uma página
 
 Irei seguir a receita do Odin, primeiramente fazer o HTML e posteriormente estilizar em CSS.
 
-[Clique aqui no Project Recipe :point_right:](https://www.theodinproject.com/lessons/foundations-recipes)
+[:point_right: Clique aqui no Project Recipe](https://www.theodinproject.com/lessons/foundations-recipes)
 
 Vamos lá! :wink:
