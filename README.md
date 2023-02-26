@@ -1,5 +1,5 @@
 
-#Project: recipes #
+#Project: recipes
 
 Estou estudando "The Odin Project" e cheguei no desafio de criar uma página em HTML, com minhas receitas favoritas :yum:
 
